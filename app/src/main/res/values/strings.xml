@@ -3,10 +3,17 @@
     <string name="passwd">passwd</string>
     <string name="password">Password</string>
     <string name="login_access">Login:</string>
-    <string name="login_btn">Login></string>
+    <string name="login_btn">Login</string>
     <string name="xxxxxxxx">xxxxxxxx</string>
     <string name="_1234">1234</string>
     <string name="help">Help</string>
     <string name="version_1_0">Version 1.0</string>
     <string name="user_profile">user profile</string>
+    <string name="main_title">CTS - Google Approval</string>
+    <string name="strat_date">Start Date</string>
+    <string name="finish_date">Finish Date</string>
+    <string name="model">Model:</string>
+    <string name="operator">Operator:</string>
+    <string name="alarm">Alarm</string>
+    <string name="status">Status</string>
 </resources>
